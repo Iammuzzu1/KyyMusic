@@ -90,7 +90,7 @@ YukkiMusicPlayer is a modified version of [Callsmusic](https://github.com/callsm
 #### Open Source codes used in this project 
 - https://github.com/callsmusic/callsmusic : Source code used here as base
 - https://github.com/DevsExpo/FridayUserbot/blob/master/main_startup/helper_func/basic_helpers.py : Functioms from line 275 to 351
-- https://github.com/TheHamkerCat/WilliamButcherBot/blob/dev/wbb/modules/music.py : From lines 170 to 178
+- https://github.com/TheHamkerCat/Iammuzzu1/blob/dev/wbb/modules/music.py : From lines 170 to 178
 
 
 > This project exists thanks to these awesome developers and their codes and contributions.
